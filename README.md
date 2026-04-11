@@ -1,4 +1,4 @@
-# NLight IDE v3.0.0
+# NLight IDE v3.0.1
 
 > **AI-Powered Development Environment for Students**  
 > Joint Venture: Java Institute of Advanced Technology × Temco Bank
@@ -10,7 +10,7 @@
 ### Download & Install
 
 1. **Download Installer**  
-   [NLight_IDE_v3.0.0_Setup.exe](https://github.com/Java-Institute-Holdings/nlight/releases/download/v3.0.0/NLight_IDE_v3.0.0_Setup.exe) *(~61 KB installer — downloads IDE automatically)*
+   [NLight_IDE_v3.0.0_Setup.exe](https://github.com/Java-Institute-Holdings/nlight/releases/download/v3.0.1/NLight_IDE_v3.0.0_Setup.exe) *(~61 KB installer — downloads IDE automatically)*
 
 2. **Run Installer**  
    - Double-click the downloaded `.exe` file
@@ -122,13 +122,13 @@ NLight works out-of-the-box with built-in AI models. For advanced users:
 - Updates are downloaded and installed automatically
 
 ### Manual Update
-1. Download [NLight_Update.exe](https://github.com/Java-Institute-Holdings/nlight/releases/download/v3.0.0/NLight_Update.exe)
+1. Download [NLight_Update.exe](https://github.com/Java-Institute-Holdings/nlight/releases/download/v3.0.1/NLight_Update.exe)
 2. Run the updater
 3. Follow the on-screen instructions
 
 ### Get Help
 - **GitHub Issues**: [Report bugs or request features](https://github.com/Java-Institute-Holdings/nlight/issues)
-- **Setup Guide**: [Interactive tutorial](https://github.com/Java-Institute-Holdings/nlight/releases/download/v3.0.0/Student_Setup_Guide_Interactive.html)
+- **Setup Guide**: [Interactive tutorial](https://github.com/Java-Institute-Holdings/nlight/releases/download/v3.0.1/Student_Setup_Guide_Interactive.html)
 
 ---
 
@@ -148,7 +148,8 @@ NLight works out-of-the-box with built-in AI models. For advanced users:
 
 ## Version History
 
-### v3.0.0 (Current)
+### v3.0.1 (Current)
+- Fixed PowerShell execution policy error in installer
 - Complete NLight IDE branding
 - Local AI model support
 - Student-focused features
