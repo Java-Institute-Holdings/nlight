@@ -14,6 +14,8 @@
 
 2. **Run Installer**  
    - Double-click the downloaded `.exe` file
+   - If Windows SmartScreen appears, click **"More info"** → then click **"Run anyway"**  
+     *(This is normal for new software — the installer is safe)*
    - Follow the 4-step installation wizard
    - Launch NLight IDE from desktop shortcut
 
