@@ -10,7 +10,7 @@
 ### Download & Install
 
 1. **Download Installer**  
-   [NLight_IDE_v3.0.0_Setup.exe](https://github.com/Java-Institute-Holdings/nlight/releases/download/v3.0.0/NLight_IDE_v3.0.0_Setup.exe) *(60 MB)*
+   [NLight_IDE_v3.0.0_Setup.exe](https://github.com/Java-Institute-Holdings/nlight/releases/download/v3.0.0/NLight_IDE_v3.0.0_Setup.exe) *(~61 KB installer — downloads IDE automatically)*
 
 2. **Run Installer**  
    - Double-click the downloaded `.exe` file
