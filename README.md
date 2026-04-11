@@ -29,8 +29,8 @@
 NLight IDE is a **branded development environment** built for students, featuring:
 
 - **AI Chat Assistant** - Get help with coding questions instantly
-- **Local AI Support** - Works offline with Ollama models (no internet required)
-- **Professional Tools** - Full VS Code features, syntax highlighting, debugging
+- **Local AI Support** - Works offline with "Nlight LLM models" (no internet required)
+- **Professional Tools** - Full Nlight Code features, syntax highlighting, debugging
 - **Student-Focused** - Designed for learning, not enterprise complexity
 
 ---
@@ -141,8 +141,8 @@ NLight works out-of-the-box with built-in AI models. For advanced users:
 - **Custom AI models** can be pre-configured
 
 ### Contact
-- **Email**: nlight@javainstitute.lk
-- **Website**: https://nlight.javainstitute.lk
+- **Email**: admin@jihltd.com
+- **Website**: https://nlight.jihltd.com
 
 ---
 
@@ -166,8 +166,8 @@ NLight IDE is provided under the **Educational License** for students and educat
 
 <div align="center">
 
-**Java Institute of Advanced Technology**  
-*Premier IT Education in Sri Lanka*
+**Java Institute for Advanced Technology**  
+*Premier in Software Engineering Education*
 
 **Temco Bank**  
 *Banking Innovation & Technology*
@@ -181,9 +181,9 @@ NLight IDE is provided under the **Educational License** for students and educat
 - [Download Latest Version](https://github.com/Java-Institute-Holdings/nlight/releases/latest)
 - [Installation Guide](https://github.com/Java-Institute-Holdings/nlight/releases/download/v3.0.0/Student_Setup_Guide_Interactive.html)
 - [Report Issues](https://github.com/Java-Institute-Holdings/nlight/issues)
-- [Privacy Policy](https://nlight.javainstitute.lk/privacy)
+- [Privacy Policy](https://nlight.jihltd.com/privacy)
 
 ---
 
 *Built with care for students, by students.*  
-*© 2026 Java Institute of Advanced Technology & Temco Bank*
+*© 2026 Java Institute for Advanced Technology & Temco Bank*
