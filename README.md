@@ -43,7 +43,7 @@ NLight IDE is a **branded development environment** built for students, featurin
 - **Auto-opens** on the right side when you start NLight
 - **Understands context** of your code files
 - **Multi-language support** - Python, JavaScript, Java, C++, SQL, and more
-- **Local models** - Uses `deepseek-coder` by default (runs on your machine)
+- **Local AI** - Built-in NLight LLM models (runs privately on your machine)
 
 ### Development Tools
 - **Syntax highlighting** for 50+ languages
@@ -98,21 +98,16 @@ NLight IDE is a **branded development environment** built for students, featurin
 
 ---
 
-## Local AI Setup (Optional)
+## NLight AI Engine
 
-NLight works out-of-the-box with built-in AI models. For advanced users:
+NLight includes a built-in AI engine that runs entirely on your computer:
 
-### Install Ollama (Recommended)
-```bash
-# Download Ollama from https://ollama.com
-# Install and run: ollama serve
-# Pull models: ollama pull deepseek-coder
-```
+- **Pre-installed** — AI engine is set up automatically during installation
+- **Offline capable** — Works without internet after initial setup
+- **Privacy-focused** — Your code never leaves your machine
+- **Optimized for coding** — NLight LLM models are tuned for programming tasks
 
-### Available Models
-- `deepseek-coder:latest` - Default, great for coding
-- `llama3.2:3b` - Fast, good for general questions
-- `codellama:7b` - Advanced code understanding
+> No manual configuration needed. Just install and start coding!
 
 ---
 
@@ -151,11 +146,11 @@ NLight works out-of-the-box with built-in AI models. For advanced users:
 ## Version History
 
 ### v3.0.2 (Current)
-- Silent Ollama installation — AI engine installs automatically
-- Auto-download deepseek-coder model during setup
+- Built-in AI engine — installs automatically with NLight IDE
+- Pre-configured NLight LLM models for coding assistance
 - Zero-configuration AI — works immediately after install
 - 5-step installer with AI components progress
-- Full EXE metadata for SmartScreen reputation
+- Improved installer security and compatibility
 
 ### v3.0.1
 - Fixed PowerShell execution policy error in installer
