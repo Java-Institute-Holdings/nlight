@@ -43,7 +43,7 @@ NLight IDE is a **branded development environment** built for students, featurin
 - **Auto-opens** on the right side when you start NLight
 - **Understands context** of your code files
 - **Multi-language support** - Python, JavaScript, Java, C++, SQL, and more
-- **Local AI** - Built-in NLight LLM models (runs privately on your machine)
+- **Local AI** - Built-in NLight LLM (runs privately on your machine)
 
 ### Development Tools
 - **Syntax highlighting** for 50+ languages
@@ -105,7 +105,7 @@ NLight includes a built-in AI engine that runs entirely on your computer:
 - **Pre-installed** — AI engine is set up automatically during installation
 - **Offline capable** — Works without internet after initial setup
 - **Privacy-focused** — Your code never leaves your machine
-- **Optimized for coding** — NLight LLM models are tuned for programming tasks
+- **Optimized for coding** - NLight LLM is tuned for programming tasks
 
 > No manual configuration needed. Just install and start coding!
 
@@ -147,7 +147,7 @@ NLight includes a built-in AI engine that runs entirely on your computer:
 
 ### v3.0.2 (Current)
 - Built-in AI engine — installs automatically with NLight IDE
-- Pre-configured NLight LLM models for coding assistance
+- Pre-configured NLight LLM for coding assistance
 - Zero-configuration AI — works immediately after install
 - 5-step installer with AI components progress
 - Improved installer security and compatibility
