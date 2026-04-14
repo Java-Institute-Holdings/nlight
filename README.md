@@ -37,7 +37,7 @@ Extract the ZIP and run `NLight.exe` inside the extracted folder.
 - ✅ **95+ pre-installed extensions** (Python, Java, Live Server, ESLint, and more)
 - ✅ **No technical setup required**
 - ✅ **100% private — your code stays on your computer**
-- ✅ **Completely free**
+- ✅ **Student Package — Completely free**
 
 ## 🤖 AI Features
 - **Smart code generation** in any programming language
